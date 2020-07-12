@@ -12,5 +12,9 @@
     "react-dom": "^16.8.6",
     "swr": "^0.1.18"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^16.9.43",
+    "@vercel/node": "^1.7.2"
+  }
 }
