@@ -1,7 +1,7 @@
 openapi: 3.0.0
 servers:
-  - description: SwaggerHub API Auto Mocking
-    url: https://smashbros-unofficial-api.vercel.app/
+  - description: Production server
+    url: https://smashbros-unofficial-api.vercel.app/api
 info:
   description: Unofficial API for Super Smash Bros
   version: "1.0.0"
@@ -24,13 +24,6 @@ paths:
       operationId: listUltimateCharacters
       description: |
         List all smash ultimate characters
-      parameters:
-        - in: query
-          name: otherFightersFromThisSeries
-          description: pass this param as true, to include other characters in the same series
-          required: false
-          schema:
-            type: boolean
       responses:
         '200':
           description: returns all smash ultimate characters
@@ -69,10 +62,6 @@ components:
           format: int32
         series:
           $ref: '#/components/schemas/Series'
-        otherFightersFromThisSeries:
-          type: array
-          items:
-            $ref: '#/components/schemas/Character'
     Images:
       type: object
       properties:
