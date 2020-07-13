@@ -33,6 +33,33 @@ paths:
                 type: array
                 items:
                   $ref: '#/components/schemas/Character'
+  /ultimate/characters/{name}:
+    parameters:
+    - name: name
+      in: path
+      description: Name of the character to fetch
+      required: true
+      schema:
+        type: string
+    get:
+      tags:
+        - developers
+      summary: get a specific ultimate character
+      operationId: getUltimateCharacter
+      description: |
+        Get an specific Ultimate character
+      responses:
+        '200':
+          description: returns ultimate character
+          content:
+            application/json:
+              schema:
+                type: object
+                $ref: '#/components/schemas/Character'
+        '400':
+          description: no character with that name was found
+          content:
+            text/plain
 components:
   schemas:
     Character:

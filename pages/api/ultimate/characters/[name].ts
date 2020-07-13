@@ -13,7 +13,7 @@ const character = (req: NowRequest, res: NowResponse) => {
     return res.status(200).json(matchingCharacter);
   }
 
-  return res.status(404).end(`No character found by the name '${name}'`);
+  return res.status(404);
 };
 
 export default character;
