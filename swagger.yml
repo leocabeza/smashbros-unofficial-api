@@ -1,0 +1,89 @@
+openapi: 3.0.0
+servers:
+  - description: SwaggerHub API Auto Mocking
+    url: https://smashbros-unofficial-api.vercel.app/
+info:
+  description: Unofficial API for Super Smash Bros
+  version: "1.0.0"
+  title: Super Smash Bros
+  contact:
+    name: Leonardo Cabeza
+    url: https://github.com/leocabeza/smashbros-unofficial-api
+  license:
+    name: Apache 2.0
+    url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
+tags:
+  - name: developers
+    description: Operations available to regular developers
+paths:
+  /ultimate/characters:
+    get:
+      tags:
+        - developers
+      summary: list all smash ultimate characters
+      operationId: listUltimateCharacters
+      description: |
+        List all smash ultimate characters
+      parameters:
+        - in: query
+          name: otherFightersFromThisSeries
+          description: pass this param as true, to include other characters in the same series
+          required: false
+          schema:
+            type: boolean
+      responses:
+        '200':
+          description: returns all smash ultimate characters
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Character'
+components:
+  schemas:
+    Character:
+      type: object
+      properties:
+        alsoAppearsIn:
+          type: array
+          items:
+            type: string
+            enum:
+              - SSB
+              - Melee
+              - Brawl
+              - SSBWU/3DS
+        availability:
+          type: string
+          enum:
+            - Starter
+            - Unlockable
+            - Downloadable
+        images:
+          $ref: '#/components/schemas/Images'
+        name:
+          type: string
+        order:
+          type: number
+          format: int32
+        series:
+          $ref: '#/components/schemas/Series'
+        otherFightersFromThisSeries:
+          type: array
+          items:
+            $ref: '#/components/schemas/Character'
+    Images:
+      type: object
+      properties:
+        name:
+          type: string
+        portrait:
+          type: string
+    Series:
+      type: object
+      properties:
+        icon:
+          type: string
+        name:
+          type: string
