@@ -9,12 +9,11 @@ interface Character {
     portrait: string;
   },
   name: string;
-  order: number;
+  order: string;
   series: {
     icon: string;
     name: string;
-  },
-  otherFightersFromThisSeries?: Omit<Character, 'otherFightersFromThisSeries'>[]
+  };
 };
 
 export default Character

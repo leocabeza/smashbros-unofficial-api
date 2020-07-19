@@ -11,12 +11,14 @@
     "next": "latest",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "swagger-ui-react": "^3.28.0",
+    "swagger-ui-react": "^3.30.0",
     "swr": "^0.1.18"
   },
   "license": "ISC",
   "devDependencies": {
     "@types/react": "^16.9.43",
-    "@vercel/node": "^1.7.2"
+    "@vercel/node": "^1.7.2",
+    "cloudinary": "^1.22.0",
+    "dotenv": "^8.2.0"
   }
 }

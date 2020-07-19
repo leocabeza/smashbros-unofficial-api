@@ -1,8 +1,8 @@
 import { NowRequest, NowResponse } from '@vercel/node'
 
-/* using require, because this is closed but not fixed: https://github.com/Microsoft/TypeScript/issues/25400 */
-const characters = require('./characters.json');
 import ICharacter from './interface';
+/* using require, because this is closed but not fixed: https://github.com/Microsoft/TypeScript/issues/25400 */
+const characters: ICharacter[] = require('./characters.json');
 
 const character = (req: NowRequest, res: NowResponse) => {
   const { name } = req.query;

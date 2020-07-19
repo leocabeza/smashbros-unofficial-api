@@ -1,0 +1,244 @@
+[
+  {
+    "alsoAppearsIn": [
+      "SSB",
+      "Melee",
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Starter",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501674/Ultimate%20Characters/Icons/120px-MarioHeadSSBUWebsite_hkzzpq.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501176/Ultimate%20Characters/Portraits/350_emjsmz.png"
+    },
+    "name":"Mario",
+    "order":"1",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501902/Series/mario_ncgezx.svg",
+      "name":"Mario Bros"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB",
+      "Melee",
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Starter",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501698/Ultimate%20Characters/Icons/120px-DonkeyKongHeadSSBUWebsite_h8qz9i.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501254/Ultimate%20Characters/Portraits/350_xvyuzj.png"
+    },
+    "name":"Donkey Kong",
+    "order":"2",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501875/Series/donkey-kong_tppruc.svg",
+      "name":"Donkey Kong"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB",
+      "Melee",
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Starter",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501722/Ultimate%20Characters/Icons/120px-LinkHeadSSBUWebsite_pzo2jz.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501273/Ultimate%20Characters/Portraits/350_shjp6c.png"
+    },
+    "name":"Link",
+    "order":"3",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501930/Series/the-legend-of-zelda_naf34b.svg",
+      "name":"The Legend of Zelda"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB",
+      "Melee",
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Starter",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595194655/Ultimate%20Characters/Icons/i5rvljkpajr2rqkflkmm.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595194655/Ultimate%20Characters/Portraits/sxfhg6ua3cnjsyq3gc9f.png"
+    },
+    "name":"Samus",
+    "order":"4",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595194655/Series/fxdmwjgnygjbaetfvjzy.svg",
+      "name":"Metroid"
+    }
+  },
+  {
+    "alsoAppearsIn": [],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595196410/Ultimate%20Characters/Icons/sjopx966kkczkijelpim.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595196410/Ultimate%20Characters/Portraits/kr63y9f7yp5e5kruz4i5.png"
+    },
+    "name":"Dark Samus",
+    "order":"4e",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595194655/Series/fxdmwjgnygjbaetfvjzy.svg",
+      "name":"Metroid"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB",
+      "Melee",
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Starter",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595197033/Ultimate%20Characters/Icons/yzfsd5sz2h6izdgre4ub.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595197033/Ultimate%20Characters/Portraits/lfacckrdfx7im91l9j3c.png"
+    },
+    "name":"Yoshi",
+    "order":"5",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595197033/Series/murkcxf7ykhhz3muwo7y.svg",
+      "name":"Yoshi"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB",
+      "Melee",
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Starter",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198280/Ultimate%20Characters/Icons/b3xbw1uwuhubocyibecv.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198281/Ultimate%20Characters/Portraits/p3tjm5u0xgudqshhwtim.png"
+    },
+    "name":"Kirby",
+    "order":"6",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198280/Series/bilh5ggeojt5hxozb8fp.svg",
+      "name":"Kirby"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB",
+      "Melee",
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Starter",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198574/Ultimate%20Characters/Icons/ahaz2u4oaenmzgqhrpz6.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198575/Ultimate%20Characters/Portraits/qbkb5opug43mzizb2oct.png"
+    },
+    "name":"Fox",
+    "order":"7",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198574/Series/g6sv3naruucu8qs0vv3u.svg",
+      "name":"Star Fox"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB",
+      "Melee",
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Starter",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198731/Ultimate%20Characters/Icons/o07zv6beydfx0erkavfk.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198731/Ultimate%20Characters/Portraits/p3sq8dqdbks9cid5vmsi.png"
+    },
+    "name":"Pikachu",
+    "order":"8",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198731/Series/mstlaeic4u1lgbzyfjdw.svg",
+      "name":"Pokémon"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB",
+      "Melee",
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595199027/Ultimate%20Characters/Icons/bhciash4n90qbxy4bu3e.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595199028/Ultimate%20Characters/Portraits/m7dhe7mnktqp3n5lurch.png"
+    },
+    "name":"Luigi",
+    "order":"9",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501902/Series/mario_ncgezx.svg",
+      "name":"Mario Bros"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB",
+      "Melee",
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595199211/Ultimate%20Characters/Icons/eyzbbk2u1upzrfuxzpxo.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595199211/Ultimate%20Characters/Portraits/gfg3wvlrdsrf88mxc5ic.png"
+    },
+    "name":"Ness",
+    "order":"10",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595199211/Series/lpuxxedjrwzwgnvuklt0.svg",
+      "name":"EarthBound"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB",
+      "Melee",
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595199362/Ultimate%20Characters/Icons/oeseikgvv04jdik1m47l.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595199363/Ultimate%20Characters/Portraits/wtyd8jydn6ergiibkeao.png"
+    },
+    "name":"Captain Falcon",
+    "order":"11",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595199363/Series/rt7xqwarfhrhlkqzlf1t.svg",
+      "name":"F-Zero"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB",
+      "Melee",
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595199643/Ultimate%20Characters/Icons/vgbgm6ao6yrpfae0chmk.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595199643/Ultimate%20Characters/Portraits/v78njmwrkrrgy8eqvucr.png"
+    },
+    "name":"Jigglypuff",
+    "order":"12",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198731/Series/mstlaeic4u1lgbzyfjdw.svg",
+      "name":"Pokémon"
+    }
+  }
+]
