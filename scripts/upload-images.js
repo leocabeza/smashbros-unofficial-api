@@ -7,9 +7,9 @@ const cloudinary = require('cloudinary');
 // https://www.ssbwiki.com/Category:Head_icons_(SSBU)
 
 const newCharacterToUpload = {
-  'Ultimate Characters/Portraits': 'https://www.ssbwiki.com/images/thumb/c/cb/Mr._Game_%26_Watch_SSBU.png/1200px-Mr._Game_%26_Watch_SSBU.png',
-  'Ultimate Characters/Icons': 'https://www.ssbwiki.com/images/1/15/MrGame%26WatchHeadSSBUWebsite.png',
-  'Series': 'https://www.ssbwiki.com/images/2/2b/Game%26WatchSymbol.svg'
+  'Ultimate Characters/Portraits': 'https://www.ssbwiki.com/images/thumb/8/8a/Wolf_SSBU.png/1294px-Wolf_SSBU.png',
+  'Ultimate Characters/Icons': 'https://www.ssbwiki.com/images/0/06/WolfHeadSSBUWebsite.png',
+  /* 'Series': 'https://www.ssbwiki.com/images/d/d4/ROBSymbol.svg' */
 };
 
 (async() => {

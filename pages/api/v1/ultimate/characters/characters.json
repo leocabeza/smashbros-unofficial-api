@@ -523,5 +523,290 @@
       "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595214130/Series/gr73dvd2a3sfx7q4gujm.svg",
       "name":"Game & Watch"
     }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595263616/Ultimate%20Characters/Icons/gy3ymahlwvsgptwfrypu.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595263616/Ultimate%20Characters/Portraits/n0etle8sayrzcbps0fww.png"
+    },
+    "name":"Meta Knight",
+    "order":"27",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198280/Series/bilh5ggeojt5hxozb8fp.svg",
+      "name":"Kirby"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595263748/Ultimate%20Characters/Icons/fedzu1dun3ahpda0lwve.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595263748/Ultimate%20Characters/Portraits/lzkefv3rrcflzyocjdyu.png"
+    },
+    "name":"Pit",
+    "order":"28",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595263748/Series/avacpo60oulifezowbm3.svg",
+      "name":"Kid Icarus"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595263875/Ultimate%20Characters/Icons/zj5eosi1phfoklbcvngg.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595263876/Ultimate%20Characters/Portraits/elttvd94sgqjdwgpt0ck.png"
+    },
+    "name":"Dark Pit",
+    "order":"28e",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595263748/Series/avacpo60oulifezowbm3.svg",
+      "name":"Kid Icarus"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595264033/Ultimate%20Characters/Icons/sgwnmktnr7khqbkqtbah.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595264033/Ultimate%20Characters/Portraits/s3fytj9hx7tx1kkwjk6c.png"
+    },
+    "name":"Zero Suit Samus",
+    "order":"29",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595194655/Series/fxdmwjgnygjbaetfvjzy.svg",
+      "name":"Metroid"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595264211/Ultimate%20Characters/Icons/jgrrjer1mjlsvteav3dh.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595264211/Ultimate%20Characters/Portraits/xmp0v3wncsxnasiphzmr.png"
+    },
+    "name":"Wario",
+    "order":"30",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595264211/Series/d2w452qfebtvfkrpyrzj.svg",
+      "name":"Wario"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595264393/Ultimate%20Characters/Icons/v5776tdmn4axkpjk46n9.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595264393/Ultimate%20Characters/Portraits/kfyqirdu6ljgrt4kfi7l.png"
+    },
+    "name":"Snake",
+    "order":"31",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595264393/Series/bhoweuqpf6xchrfo8kwl.svg",
+      "name":"Metal Gear"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595264563/Ultimate%20Characters/Icons/exnw4xwqdqa5zht1xsyf.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595264564/Ultimate%20Characters/Portraits/xcaa2mfjcxgoldfq19q2.png"
+    },
+    "name":"Ike",
+    "order":"32",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213106/Series/uj3kecbitighgwf6khrd.svg",
+      "name":"Fire Emblem"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595264862/Ultimate%20Characters/Icons/yvnxrxzchwuctsjprkhc.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595264862/Ultimate%20Characters/Portraits/posqzvrhabawj0tq0mcc.png"
+    },
+    "name":"Pokémon Trainer",
+    "order":"33-35",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198731/Series/mstlaeic4u1lgbzyfjdw.svg",
+      "name":"Pokémon"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595265008/Ultimate%20Characters/Icons/qewoja1kyygqbcqtj0ty.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595265008/Ultimate%20Characters/Portraits/w1afvrdq7sktkrfiykym.png"
+    },
+    "name":"Diddy Kong",
+    "order":"36",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501875/Series/donkey-kong_tppruc.svg",
+      "name":"Donkey Kong"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595265199/Ultimate%20Characters/Icons/axcr2z2uhwbzdljdgsk5.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595265199/Ultimate%20Characters/Portraits/qtggzoawqah3ban806xy.png"
+    },
+    "name":"Lucas",
+    "order":"37",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595199211/Series/lpuxxedjrwzwgnvuklt0.svg",
+      "name":"EarthBound"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595265319/Ultimate%20Characters/Icons/i8du3ktijy2ceifcl7rs.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595265319/Ultimate%20Characters/Portraits/bayu9owdiwzcrlasy1iy.png"
+    },
+    "name":"Sonic",
+    "order":"38",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595265319/Series/ouolfmapifqlj13smqpn.svg",
+      "name":"Sonic"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595265460/Ultimate%20Characters/Icons/r6cduawxidkezml8khdx.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595265460/Ultimate%20Characters/Portraits/hmktwybifvwap6oys1pv.png"
+    },
+    "name":"King Dedede",
+    "order":"39",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198280/Series/bilh5ggeojt5hxozb8fp.svg",
+      "name":"Kirby"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595265648/Ultimate%20Characters/Icons/v4vmilfphcpdnc1heilp.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595265648/Ultimate%20Characters/Portraits/jdz3vjh92l0dvvlblftz.png"
+    },
+    "name":"Olimar",
+    "order":"40",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595265648/Series/lqi9s9rpx8zerubf4xb8.svg",
+      "name":"Pikmin"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595265813/Ultimate%20Characters/Icons/use8lbowukfewcfzy3il.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595265813/Ultimate%20Characters/Portraits/bem98aanh5cmmod89rkn.png"
+    },
+    "name":"Lucario",
+    "order":"41",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198731/Series/mstlaeic4u1lgbzyfjdw.svg",
+      "name":"Pokémon"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595265939/Ultimate%20Characters/Icons/vaoggp5lxk1qr4wocf2v.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595265939/Ultimate%20Characters/Portraits/xrjqrboevnaqshifiv3o.png"
+    },
+    "name":"R.O.B.",
+    "order":"42",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595265939/Series/jkh9sgvqmtpaeahhdurk.svg",
+      "name":"R.O.B."
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595266122/Ultimate%20Characters/Icons/vqmqapbk94jdzat6g6tc.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595266122/Ultimate%20Characters/Portraits/wbkqc0axgaycid4pw3t5.png"
+    },
+    "name":"Toon Link",
+    "order":"43",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501930/Series/the-legend-of-zelda_naf34b.svg",
+      "name":"The Legend of Zelda"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595266237/Ultimate%20Characters/Icons/momtovlmoul2gs5tlenu.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595266237/Ultimate%20Characters/Portraits/xn93cs0tlzqppjfxbmzr.png"
+    },
+    "name":"Wolf",
+    "order":"44",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198574/Series/g6sv3naruucu8qs0vv3u.svg",
+      "name":"Star Fox"
+    }
   }
 ]
