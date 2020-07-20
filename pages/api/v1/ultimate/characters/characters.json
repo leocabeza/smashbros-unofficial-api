@@ -240,5 +240,288 @@
       "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198731/Series/mstlaeic4u1lgbzyfjdw.svg",
       "name":"Pokémon"
     }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595210915/Ultimate%20Characters/Icons/adenccvsngq5mmxtgg6c.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595210915/Ultimate%20Characters/Portraits/nomhtoslkqvg2dv8cp1b.png"
+    },
+    "name":"Peach",
+    "order":"13",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501902/Series/mario_ncgezx.svg",
+      "name":"Mario Bros"
+    }
+  },
+  {
+    "alsoAppearsIn": [],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595211071/Ultimate%20Characters/Icons/yzrulx2ixqfuktvsslwc.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595211071/Ultimate%20Characters/Portraits/hxdttho9vmxtvonegb9a.png"
+    },
+    "name":"Daisy",
+    "order":"13e",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501902/Series/mario_ncgezx.svg",
+      "name":"Mario Bros"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595211321/Ultimate%20Characters/Icons/ku5bfpewtw5qvvxrbbyc.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595211322/Ultimate%20Characters/Portraits/mhiwpew9s16lnu3hhvko.png"
+    },
+    "name":"Bowser",
+    "order":"14",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501902/Series/mario_ncgezx.svg",
+      "name":"Mario Bros"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595211554/Ultimate%20Characters/Icons/f0x0erel0h87cko9qgyl.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595211555/Ultimate%20Characters/Portraits/nai1earjicsx8llq6lso.png"
+    },
+    "name":"Ice Climbers",
+    "order":"15",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595211554/Series/elcz77vgrgasu9l1s5hr.svg",
+      "name":"Ice Climber"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595211924/Ultimate%20Characters/Icons/kxacuatj0g1lhvawmlib.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595211925/Ultimate%20Characters/Portraits/vidxewxyagvq6t6o9tpd.png"
+    },
+    "name":"Sheik",
+    "order":"16",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501930/Series/the-legend-of-zelda_naf34b.svg",
+      "name":"The Legend of Zelda"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595212046/Ultimate%20Characters/Icons/yl8te2a0y3k9tuhs2onr.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595212046/Ultimate%20Characters/Portraits/lflkm8btxjnk6ueh4vic.png"
+    },
+    "name":"Zelda",
+    "order":"17",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501930/Series/the-legend-of-zelda_naf34b.svg",
+      "name":"The Legend of Zelda"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595212315/Ultimate%20Characters/Icons/wz4wmoj8ky5wbdsxfz9l.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595212316/Ultimate%20Characters/Portraits/hxgmpup4gfavliwnv6gy.png"
+    },
+    "name":"Dr. Mario",
+    "order":"18",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501902/Series/mario_ncgezx.svg",
+      "name":"Mario Bros"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Melee"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595212716/Ultimate%20Characters/Icons/h1tn2ec517gvnvze1jns.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595212716/Ultimate%20Characters/Portraits/k7aka7yemcuwl1leeg8f.png"
+    },
+    "name":"Pichu",
+    "order":"19",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198731/Series/mstlaeic4u1lgbzyfjdw.svg",
+      "name":"Pokémon"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Melee",
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595212959/Ultimate%20Characters/Icons/g7chnuctc9jy3jclrnuf.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595212959/Ultimate%20Characters/Portraits/kem6gbr0q4gbzfvhyt1c.png"
+    },
+    "name":"Falco",
+    "order":"20",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198574/Series/g6sv3naruucu8qs0vv3u.svg",
+      "name":"Star Fox"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Melee",
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213106/Ultimate%20Characters/Icons/hcz3nbywrdgd1zgu5lvg.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213106/Ultimate%20Characters/Portraits/npcnj4xxf8dxdam0ddjf.png"
+    },
+    "name":"Marth",
+    "order":"21",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213106/Series/uj3kecbitighgwf6khrd.svg",
+      "name":"Fire Emblem"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213224/Ultimate%20Characters/Icons/qfucv1c7wobimkzaltwl.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213224/Ultimate%20Characters/Portraits/lykaxbghjrmoawddzoqp.png"
+    },
+    "name":"Lucina",
+    "order":"21e",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213106/Series/uj3kecbitighgwf6khrd.svg",
+      "name":"Fire Emblem"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Melee"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213463/Ultimate%20Characters/Icons/ratlejqm8xek4wrl8ad1.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213463/Ultimate%20Characters/Portraits/cmjge0b0jn0qfmbcholx.png"
+    },
+    "name":"Young Link",
+    "order":"22",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501930/Series/the-legend-of-zelda_naf34b.svg",
+      "name":"The Legend of Zelda"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Melee",
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213635/Ultimate%20Characters/Icons/nidtfbolm0wpkw400auw.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213636/Ultimate%20Characters/Portraits/xjhyn8kfuxttx2jlb5io.png"
+    },
+    "name":"Ganondorf",
+    "order":"23",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501930/Series/the-legend-of-zelda_naf34b.svg",
+      "name":"The Legend of Zelda"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Melee",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213769/Ultimate%20Characters/Icons/zpde70pzlkxolgrfbdya.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213769/Ultimate%20Characters/Portraits/qc2lkajqhz6hj5jywivf.png"
+    },
+    "name":"Mewtwo",
+    "order":"24",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198731/Series/mstlaeic4u1lgbzyfjdw.svg",
+      "name":"Pokémon"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Melee",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213882/Ultimate%20Characters/Icons/pj3iad6leump9k0jx1hj.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213883/Ultimate%20Characters/Portraits/xsk9svjgz63vzbd9nec7.png"
+    },
+    "name":"Roy",
+    "order":"25",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213106/Series/uj3kecbitighgwf6khrd.svg",
+      "name":"Fire Emblem"
+    }
+  },
+  {
+    "alsoAppearsIn": [],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213968/Ultimate%20Characters/Icons/j0qwtq8tpcengvaymmce.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213968/Ultimate%20Characters/Portraits/wddc8fbxlsp5ylgotefk.png"
+    },
+    "name":"Chrom",
+    "order":"25e",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213106/Series/uj3kecbitighgwf6khrd.svg",
+      "name":"Fire Emblem"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "Melee",
+      "Brawl",
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595214130/Ultimate%20Characters/Icons/ycqk3kzvmb3todifwfpn.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595214130/Ultimate%20Characters/Portraits/v5f11c54nri83lypnfci.png"
+    },
+    "name":"Mr. Game & Watch",
+    "order":"26",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595214130/Series/gr73dvd2a3sfx7q4gujm.svg",
+      "name":"Game & Watch"
+    }
   }
 ]

@@ -4,7 +4,9 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "test": "jest",
+    "test:dev": "npm run test -- --watch"
   },
   "dependencies": {
     "js-yaml-loader": "^1.2.2",
@@ -19,6 +21,7 @@
     "@types/react": "^16.9.43",
     "@vercel/node": "^1.7.2",
     "cloudinary": "^1.22.0",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "jest": "^26.1.0"
   }
 }

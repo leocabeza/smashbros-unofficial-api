@@ -7,9 +7,9 @@ const cloudinary = require('cloudinary');
 // https://www.ssbwiki.com/Category:Head_icons_(SSBU)
 
 const newCharacterToUpload = {
-  'Ultimate Characters/Portraits': 'https://www.ssbwiki.com/images/thumb/6/6a/Jigglypuff_SSBU.png/1200px-Jigglypuff_SSBU.png',
-  'Ultimate Characters/Icons': 'https://www.ssbwiki.com/images/9/90/JigglypuffHeadSSBUWebsite.png',
-  'Series': 'https://www.ssbwiki.com/images/c/ca/PokemonSymbol.svg'
+  'Ultimate Characters/Portraits': 'https://www.ssbwiki.com/images/thumb/c/cb/Mr._Game_%26_Watch_SSBU.png/1200px-Mr._Game_%26_Watch_SSBU.png',
+  'Ultimate Characters/Icons': 'https://www.ssbwiki.com/images/1/15/MrGame%26WatchHeadSSBUWebsite.png',
+  'Series': 'https://www.ssbwiki.com/images/2/2b/Game%26WatchSymbol.svg'
 };
 
 (async() => {
