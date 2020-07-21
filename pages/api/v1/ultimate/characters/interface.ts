@@ -1,4 +1,4 @@
-type Game = 'SSB' | 'Melee' | 'Brawl' | 'SSBWU/3DS';
+type Game = 'SSB' | 'Melee' | 'Brawl' | 'SSB4' | 'Ultimate';
 type Availability = 'Starter' | 'Unlockable' | 'Downloadable';
 
 interface Character {

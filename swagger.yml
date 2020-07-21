@@ -81,7 +81,7 @@ components:
               - SSB
               - Melee
               - Brawl
-              - SSBWU/3DS
+              - SSB4
         availability:
           type: string
           enum:
@@ -100,7 +100,7 @@ components:
     Images:
       type: object
       properties:
-        name:
+        icon:
           type: string
         portrait:
           type: string
