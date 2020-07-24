@@ -1,5 +1,5 @@
 type Game = 'SSB' | 'Melee' | 'Brawl' | 'SSB4' | 'Ultimate';
-type Availability = 'Starter' | 'Unlockable' | 'Downloadable';
+type Availability = 'Starter' | 'Unlockable' | 'Downloadable' | 'Custom';
 
 interface Character {
   alsoAppearsIn: Game[];

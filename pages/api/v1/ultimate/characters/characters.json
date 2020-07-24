@@ -15,7 +15,7 @@
     "order":"1",
     "series":{
       "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501902/Series/mario_ncgezx.svg",
-      "name":"Mario Bros"
+      "name":"Mario"
     }
   },
   {
@@ -181,7 +181,7 @@
     "order":"9",
     "series":{
       "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501902/Series/mario_ncgezx.svg",
-      "name":"Mario Bros"
+      "name":"Mario"
     }
   },
   {
@@ -255,7 +255,7 @@
     "order":"13",
     "series":{
       "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501902/Series/mario_ncgezx.svg",
-      "name":"Mario Bros"
+      "name":"Mario"
     }
   },
   {
@@ -269,7 +269,7 @@
     "order":"13e",
     "series":{
       "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501902/Series/mario_ncgezx.svg",
-      "name":"Mario Bros"
+      "name":"Mario"
     }
   },
   {
@@ -286,7 +286,7 @@
     "order":"14",
     "series":{
       "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501902/Series/mario_ncgezx.svg",
-      "name":"Mario Bros"
+      "name":"Mario"
     }
   },
   {
@@ -353,7 +353,7 @@
     "order":"18",
     "series":{
       "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501902/Series/mario_ncgezx.svg",
-      "name":"Mario Bros"
+      "name":"Mario"
     }
   },
   {
@@ -807,6 +807,308 @@
     "series":{
       "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198574/Series/g6sv3naruucu8qs0vv3u.svg",
       "name":"Star Fox"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595550229/Ultimate%20Characters/Icons/f0a03rl1wrgwfl4rcwwt.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595550229/Ultimate%20Characters/Portraits/ogq7qagiegfnzacycjzh.png"
+    },
+    "name":"Villager",
+    "order":"45",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595550229/Series/x0xuomhx7l56zuz34q1j.svg",
+      "name":"Animal Crossing"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595550778/Ultimate%20Characters/Icons/ez6sg3td4pq0o0wcbdoj.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595550778/Ultimate%20Characters/Portraits/qprodrtlb9ghspa5zsfv.png"
+    },
+    "name":"Mega Man",
+    "order":"46",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595550778/Series/menz9dyv8cama8xtgn2t.svg",
+      "name":"Mega Man"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595551025/Ultimate%20Characters/Icons/xacbfbddsmooqyogsvrc.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595551025/Ultimate%20Characters/Portraits/daupvn4papsvavanburo.png"
+    },
+    "name":"Wii Fit Trainer",
+    "order":"47",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595551025/Series/p0t4eg7dznvxwbzunp8p.svg",
+      "name":"Wii Fit"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595551321/Ultimate%20Characters/Icons/jszwwl83pbkc2gy7uj0y.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595551321/Ultimate%20Characters/Portraits/amddqr6zon89isvaqdcv.png"
+    },
+    "name":"Rosalina & Luma",
+    "order":"48",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501902/Series/mario_ncgezx.svg",
+      "name":"Mario"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595551548/Ultimate%20Characters/Icons/e0t8wsr9xruc3c74scke.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595551548/Ultimate%20Characters/Portraits/uopduvfseblyedx0zjds.png"
+    },
+    "name":"Little Mac",
+    "order":"49",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595551548/Series/jeeijhihz95liemloxpm.svg",
+      "name":"Punch-Out!!"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595551923/Ultimate%20Characters/Icons/itsfz1r92y3iqgtm4qvo.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595551923/Ultimate%20Characters/Portraits/ysam1s1lg2ax3gp9p4yo.png"
+    },
+    "name":"Greninja",
+    "order":"50",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198731/Series/mstlaeic4u1lgbzyfjdw.svg",
+      "name":"Pokémon"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Custom",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595552332/Ultimate%20Characters/Icons/wzxqsikk2zq9jspwl9bm.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595552332/Ultimate%20Characters/Portraits/kaqqtd0dfkfckpy9zwof.png"
+    },
+    "name":"Mii Brawler",
+    "order":"51",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595552332/Series/ofc2xcyawclffowvoqu1.svg",
+      "name":"Super Smash Bros."
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Custom",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595552434/Ultimate%20Characters/Icons/sc5k2mb8cgfuaqhcsejf.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595552434/Ultimate%20Characters/Portraits/sxcbzeoujxtksqsf9ri0.png"
+    },
+    "name":"Mii Swordfighter",
+    "order":"52",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595552332/Series/ofc2xcyawclffowvoqu1.svg",
+      "name":"Super Smash Bros."
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Custom",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595552507/Ultimate%20Characters/Icons/wi8suczj7o1wwrfvapn4.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595552507/Ultimate%20Characters/Portraits/m0g5wlfg67s9stbceeve.png"
+    },
+    "name":"Mii Gunner",
+    "order":"53",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595552332/Series/ofc2xcyawclffowvoqu1.svg",
+      "name":"Super Smash Bros."
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595552666/Ultimate%20Characters/Icons/rk39ts4tibwb5ne9icou.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595552666/Ultimate%20Characters/Portraits/sgopc6ucy3y8qujzbd0j.png"
+    },
+    "name":"Palutena",
+    "order":"54",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595263748/Series/avacpo60oulifezowbm3.svg",
+      "name":"Kid Icarus"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595552783/Ultimate%20Characters/Icons/vzz3x3ssvytgupyp3qog.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595552783/Ultimate%20Characters/Portraits/jnzo3mvcktf5vngvrjbs.png"
+    },
+    "name":"Pac-Man",
+    "order":"55",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595552783/Series/y1lryzos8jirj8yjgexq.svg",
+      "name":"Pac-Man"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595552922/Ultimate%20Characters/Icons/tloqxpo9hmeovslexn6m.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595552922/Ultimate%20Characters/Portraits/cow4ldqzgar7b6dmvybl.png"
+    },
+    "name":"Robin",
+    "order":"56",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213106/Series/uj3kecbitighgwf6khrd.svg",
+      "name":"Fire Emblem"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595553030/Ultimate%20Characters/Icons/ggdtogz09jiiu4w3lzwl.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595553030/Ultimate%20Characters/Portraits/yvt9dgaftrxszvmmvt6i.png"
+    },
+    "name":"Shulk",
+    "order":"57",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595553030/Series/a1pc0xxngopvv6i8u60k.svg",
+      "name":"Xenoblade Chronicles"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595553178/Ultimate%20Characters/Icons/kxm4lzndmj4yxcs1l9hx.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595553179/Ultimate%20Characters/Portraits/tkxsplarjiqdasvwbhm5.png"
+    },
+    "name":"Bowser Jr.",
+    "order":"58",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501902/Series/mario_ncgezx.svg",
+      "name":"Mario"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595553304/Ultimate%20Characters/Icons/rhbwlrbzfaxoqtokr7yf.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595553304/Ultimate%20Characters/Portraits/mhzcsfvmnzhi191ty6ct.png"
+    },
+    "name":"Duck Hunt",
+    "order":"59",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595553304/Series/qtvpmemuwitz4mdo0vuv.svg",
+      "name":"Duck Hunt"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595553458/Ultimate%20Characters/Icons/hk7szzdgutkt9u4i8kov.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595553458/Ultimate%20Characters/Portraits/ragr8vtk9dywyy1qwvrx.png"
+    },
+    "name":"Ryu",
+    "order":"60",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595553458/Series/styqpzn2nur6otldctue.svg",
+      "name":"Street Fighter"
+    }
+  },
+  {
+    "alsoAppearsIn": [],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595553607/Ultimate%20Characters/Icons/ctvo71pqwbljfxucwwsj.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595553604/Ultimate%20Characters/Portraits/vhhjuhcygtj64ykct5ng.png"
+    },
+    "name":"Ken",
+    "order":"60e",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595553458/Series/styqpzn2nur6otldctue.svg",
+      "name":"Street Fighter"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595553876/Ultimate%20Characters/Icons/yk2vhtzoeno1yo34ezng.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595553877/Ultimate%20Characters/Portraits/miscvu2sxbvcrw4jicm4.png"
+    },
+    "name":"Cloud",
+    "order":"61",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595553876/Series/rsyt1blkqi8raf6uhjky.svg",
+      "name":"Final Fantasy"
+    }
+  },
+  {
+    "alsoAppearsIn": [
+      "SSB4"
+    ],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595554138/Ultimate%20Characters/Icons/nman7jnoazuhef5sau0s.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595554139/Ultimate%20Characters/Portraits/efumqstjxjohpfltbevx.png"
+    },
+    "name":"Bayonetta",
+    "order":"63",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595554138/Series/tuovz4rsz9rb3h4ixdsg.svg",
+      "name":"Bayonetta"
     }
   }
 ]
