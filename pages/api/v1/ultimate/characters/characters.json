@@ -1110,5 +1110,187 @@
       "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595554138/Series/tuovz4rsz9rb3h4ixdsg.svg",
       "name":"Bayonetta"
     }
+  },
+  {
+    "alsoAppearsIn": [],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595698333/Ultimate%20Characters/Icons/kxmmeakhmba5pxijb8ay.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595698333/Ultimate%20Characters/Portraits/p5mhpckizibpzlli7ptt.png"
+    },
+    "name":"Ridley",
+    "order":"65",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595194655/Series/fxdmwjgnygjbaetfvjzy.svg",
+      "name":"Metroid"
+    }
+  },
+  {
+    "alsoAppearsIn": [],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595698474/Ultimate%20Characters/Icons/smmkbvyoaazxzjyvl5if.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595698474/Ultimate%20Characters/Portraits/xulrsh4vvfx4sly6j5vg.png"
+    },
+    "name":"Simon",
+    "order":"66",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595698474/Series/yenuncg5oknxmowsq3hh.svg",
+      "name":"Castlevania"
+    }
+  },
+  {
+    "alsoAppearsIn": [],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595698599/Ultimate%20Characters/Icons/czu2zelvmwdktwfnolxt.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595698599/Ultimate%20Characters/Portraits/df2ejzpss1e6ze5tpulg.png"
+    },
+    "name":"Richter",
+    "order":"66e",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595698474/Series/yenuncg5oknxmowsq3hh.svg",
+      "name":"Castlevania"
+    }
+  },
+  {
+    "alsoAppearsIn": [],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595698772/Ultimate%20Characters/Icons/xfp1vgwbrwejst5dmttz.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595698773/Ultimate%20Characters/Portraits/yo7tzfw0mgqqkwfdncwv.png"
+    },
+    "name":"King K. Rool",
+    "order":"67",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501875/Series/donkey-kong_tppruc.svg",
+      "name":"Donkey Kong"
+    }
+  },
+  {
+    "alsoAppearsIn": [],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595698901/Ultimate%20Characters/Icons/zybbki3g0hwmpa6ybb4b.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595698902/Ultimate%20Characters/Portraits/bvtqrichcixgvugkf6qa.png"
+    },
+    "name":"Isabelle",
+    "order":"68",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595550229/Series/x0xuomhx7l56zuz34q1j.svg",
+      "name":"Animal Crossing"
+    }
+  },
+  {
+    "alsoAppearsIn": [],
+    "availability": "Unlockable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595699009/Ultimate%20Characters/Icons/s2fdhbzperd5qhvkav6s.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595699010/Ultimate%20Characters/Portraits/tuuxou6ojsskwzgpttmd.png"
+    },
+    "name":"Incineroar",
+    "order":"69",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595198731/Series/mstlaeic4u1lgbzyfjdw.svg",
+      "name":"Pokémon"
+    }
+  },
+  {
+    "alsoAppearsIn": [],
+    "availability": "Downloadable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595699149/Ultimate%20Characters/Icons/zwn1q3ctncghuitbybo3.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595699150/Ultimate%20Characters/Portraits/iz5cskizfcknerbjgveg.png"
+    },
+    "name":"Piranha Plant",
+    "order":"70",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1594501902/Series/mario_ncgezx.svg",
+      "name":"Mario"
+    }
+  },
+  {
+    "alsoAppearsIn": [],
+    "availability": "Downloadable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595699295/Ultimate%20Characters/Icons/clwi7yt9k2thtcs6sfkk.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595699295/Ultimate%20Characters/Portraits/hyhkooxmcbchmflb9cmm.png"
+    },
+    "name":"Joker",
+    "order":"71",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595699295/Series/eyindgcmwk93heqhqt5u.svg",
+      "name":"Persona"
+    }
+  },
+  {
+    "alsoAppearsIn": [],
+    "availability": "Downloadable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595699474/Ultimate%20Characters/Icons/nee4ttazorwhvu3xm5ft.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595699475/Ultimate%20Characters/Portraits/mceey4z9ic1e9od7y87t.png"
+    },
+    "name":"Hero",
+    "order":"72",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595699474/Series/qbsfx54saqnvlxpoqsp1.svg",
+      "name":"Dragon Quest"
+    }
+  },
+  {
+    "alsoAppearsIn": [],
+    "availability": "Downloadable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595699735/Ultimate%20Characters/Icons/pzutype0y89ulck3gs3h.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595699735/Ultimate%20Characters/Portraits/im0mc8fwe64ymdozcwyr.png"
+    },
+    "name":"Banjo & Kazooie",
+    "order":"73",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595699735/Series/bn619ul35qgaoec7pmmp.svg",
+      "name":"Banjo-Kazooie"
+    }
+  },
+  {
+    "alsoAppearsIn": [],
+    "availability": "Downloadable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595699847/Ultimate%20Characters/Icons/lynnfsewq7grm3eiygx2.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595699847/Ultimate%20Characters/Portraits/eb4ekmbtcu1acb2t3dsz.png"
+    },
+    "name":"Terry",
+    "order":"74",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595699847/Series/tvccohorx22fmsbebnsx.svg",
+      "name":"Fatal Fury"
+    }
+  },
+  {
+    "alsoAppearsIn": [],
+    "availability": "Downloadable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595699952/Ultimate%20Characters/Icons/aibsspkpveu4yw4fg2xf.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595699952/Ultimate%20Characters/Portraits/towmnvsjhdfo5hwaedpd.png"
+    },
+    "name":"Byleth",
+    "order":"75",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595213106/Series/uj3kecbitighgwf6khrd.svg",
+      "name":"Fire Emblem"
+    }
+  },
+  {
+    "alsoAppearsIn": [],
+    "availability": "Downloadable",
+    "images":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595700128/Ultimate%20Characters/Icons/tlzzdzaoswd0jzwmcocr.png",
+      "portrait":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595700128/Ultimate%20Characters/Portraits/dslisbwdhuyxmdhs3yiz.png"
+    },
+    "name":"Min Min",
+    "order":"76",
+    "series":{
+      "icon":"https://res.cloudinary.com/dfen7mkm8/image/upload/v1595700128/Series/qnwoxcjwqlxxt8sxwfbj.svg",
+      "name":"ARMS"
+    }
   }
 ]
