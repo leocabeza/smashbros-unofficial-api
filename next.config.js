@@ -14,9 +14,10 @@ module.exports = {
     ]
   },
   webpack: (config) => {
-    config.node = {
-      fs: 'empty'
-    }
+    config.resolve.fallback = {
+      ...config.resolve.fallback,
+      fs: false
+    };
 
     config.module.rules.push(
       {
